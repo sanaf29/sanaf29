@@ -1,18 +1,16 @@
-<h1 align="center">Hi, It's Sana 👋</h1>
-
+<h1 align="center"> Hi, It's Sana  </h1>
+<p align="center">
+  <img src="./me.gif" width="860" />
+</p>
+<p align="center"> Currently building 👀 </p>
 <p align="center">
 🎓 Computer Science Student at York University <br>
-💻 Software Engineering | Backend Development | Model-Driven Systems <br>
+💻 Software Engineering | Backend Development | Model-Driven Systems | IT <br>
 📍 Toronto, Canada
 </p>
 
----
-
-## 👩‍💻 
-I am a third-year Computer Science student at York University, Thats all!
-
-Currently, I’m doing some digging into software engineering and developing an application that I’m so excited to release soon 🚀.
-
+Don't Judge me ! I hardly upload my codes here, 
+will update it soon 👀
 ---
 
 ## 🛠️ Tech Stack
