@@ -1,4 +1,3 @@
-<h1 align="center"> Hi, It's Sana  </h1>
 <p align="center">
   <img src="./me.gif" width="860" />
 </p>
