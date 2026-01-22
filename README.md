@@ -8,8 +8,7 @@
 📍 Toronto, Canada
 </p>
 
-Don't Judge me ! I hardly upload my codes here, 
-will update it soon 👀
+
 ---
 
 ## 🛠️ Tech Stack
